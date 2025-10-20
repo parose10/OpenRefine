@@ -19,6 +19,7 @@ Community forum: **https://forum.openrefine.org**
 
 ## Download
 
+
 * [OpenRefine Releases](https://github.com/OpenRefine/OpenRefine/releases)
 
 ## Snapshot releases
@@ -30,7 +31,7 @@ To do so, you need to be logged in to GitHub. Then, click on the first item with
 
 If you have cloned this repository to your computer, you can run OpenRefine with:
 
-* `./refine` on Mac OS and Linux
+* `./refine` on Mac OS and Linux  
 * `refine.bat` on Windows
 
 This requires [JDK 11](https://adoptium.net/) or newer, [Apache Maven](https://maven.apache.org/) and [Node.js 18](https://nodejs.org/) or newer.
